@@ -1,2 +1,5 @@
 sat feb 16:
     
+- Carrying out research on developing FUSE file systems at user level and a disk based file system at kernel level.
+- Drawing out careful conclusions that impact the file system design
+- Thinking of ways to make the file system platform independent.
