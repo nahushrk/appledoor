@@ -1,0 +1,4 @@
+Sat feb 15:
+    Designing the graph structure to be implemented. 
+    Did research on FUSE and Kernel level FS options and decided on building FS in kernel space for its robust nature and keeping future scalability options in mind.
+    In process of determining the low level structure of FS, index, log and node tables and figuring out other factors.
